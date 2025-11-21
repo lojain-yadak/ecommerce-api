@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\bin\Debug\net9.0\KAShop.Bll.deps.json
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\bin\Debug\net9.0\KAShop.Bll.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\bin\Debug\net9.0\KAShop.Bll.pdb
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\bin\Debug\net9.0\KAShop.Dal.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\bin\Debug\net9.0\KAShop.Dal.pdb
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.AssemblyInfo.cs
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.csproj.Up2Date
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\refint\KAShop.Bll.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.pdb
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\ref\KAShop.Bll.dll
