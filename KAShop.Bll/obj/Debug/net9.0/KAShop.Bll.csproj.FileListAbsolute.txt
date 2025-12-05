@@ -13,3 +13,4 @@ C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.dll
 C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\refint\KAShop.Bll.dll
 C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.pdb
 C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\ref\KAShop.Bll.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Bll\obj\Debug\net9.0\KAShop.Bll.sourcelink.json

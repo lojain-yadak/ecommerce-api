@@ -2811,7 +2811,8 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "KAShop.Dal >= 1.0.0"
+      "KAShop.Dal >= 1.0.0",
+      "Mapster >= 9.0.0-pre01"
     ]
   },
   "packageFolders": {
@@ -2867,6 +2868,12 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "Mapster": {
+            "target": "Package",
+            "version": "[9.0.0-pre01, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

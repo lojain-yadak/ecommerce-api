@@ -1,5 +1,7 @@
 
+using KAShop.Bll.Service;
 using KAShop.Dal.Data;
+using KAShop.Dal.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
@@ -42,8 +44,9 @@ namespace KAShop.Pl
                     QueryStringKey = "lang"
                 });
             });
-
-            
+            builder.Services.AddSwaggerGen();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
             var app = builder.Build();
 
             app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
@@ -54,6 +57,8 @@ namespace KAShop.Pl
             {
                 
                app.MapOpenApi();
+                app.UseSwagger();
+                app.UseSwaggerUI();
             }
 
             app.UseHttpsRedirection();

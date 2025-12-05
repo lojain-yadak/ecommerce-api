@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KAShop.Dal.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,8 +9,10 @@ namespace KAShop.Dal.DTOs.Response
 {
     public class CategoryResponse
     {
-        public string Name { get; set; }
-        public string Language {  get; set; }
+        public int Id { get; set; }
+        public Status status {  get; set; }
+       
+        public List<CategoryTranslationsResponse> Translations { get; set; }
             
     }
 

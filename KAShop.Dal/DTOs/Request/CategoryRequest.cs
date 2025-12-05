@@ -8,7 +8,6 @@ namespace KAShop.Dal.DTOs.Request
 {
     public class CategoryRequest
     {
-        public string Name { get; set; }
-        public string Language { get; set; }
-    }
+        public List<CategoryTranslationRequest> Translations { get; set; }
+     }
 }

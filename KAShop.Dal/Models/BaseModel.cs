@@ -9,8 +9,8 @@ namespace KAShop.Dal.Models
     public class BaseModel
     {
         public int Id { get; set; }
-        public Status Status { get; set; }
-        public DateTime CreatedAt { get; set; }
+        public Status Status { get; set; } = Status.Active;
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     }
 }
