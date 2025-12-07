@@ -6,6 +6,7 @@ using KAShop.Dal.Models;
 using KAShop.Dal.Repository;
 using KAShop.Pl.Resources;
 using Mapster;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,7 @@ namespace KAShop.Pl.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriesController : ControllerBase
     {
         private readonly IStringLocalizer<SharedResource> _localizer;
@@ -38,7 +40,7 @@ namespace KAShop.Pl.Controllers
 
             var response = _categoryService.CreateCategory(request);
                      
-            return Ok(new {message = _localizer["success"].Value });
+            return Ok(new {message = _localizer["success"].Value,response });
         }
        
     }

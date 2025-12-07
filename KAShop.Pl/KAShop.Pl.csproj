@@ -27,4 +27,9 @@
     <ProjectReference Include="..\KAShop.Bll\KAShop.Bll.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\" />
+    <Folder Include="Areas\User\" />
+  </ItemGroup>
+
 </Project>

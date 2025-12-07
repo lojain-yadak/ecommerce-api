@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/auth/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "KAShop.Dal.DTOs.Request.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/auth/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "KAShop.Dal.DTOs.Request.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "KAShop.Pl.Controllers.CategoriesController",
     "Method": "index",
     "RelativePath": "api/Categories",

@@ -1,5 +1,6 @@
 ﻿using KAShop.Dal.Data;
 using KAShop.Dal.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
