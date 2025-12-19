@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KAShop.Dal.DTOs.Response
+namespace KAShop.Dal.DTOs.Request
 {
-    public class LoginResponse:BaseResponse
+    public class ForgetPasswordRequest
     {
-        public string? AccessToken { get; set; }
+        public string Email { get; set; }
     }
 }

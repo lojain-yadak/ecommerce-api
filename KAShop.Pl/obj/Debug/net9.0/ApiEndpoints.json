@@ -1,5 +1,42 @@
 [
   {
+    "ContainingType": "KAShop.Pl.Areas.Admin.CategoriesController",
+    "Method": "Create",
+    "RelativePath": "api/admin/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "KAShop.Dal.DTOs.Request.CategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/auth/Account/ConfirmEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
     "Method": "Login",
     "RelativePath": "api/auth/Account/login",
@@ -32,50 +69,45 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "KAShop.Pl.Controllers.CategoriesController",
-    "Method": "index",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "KAShop.Pl.Controllers.CategoriesController",
-    "Method": "Create",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "POST",
+    "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/auth/Account/ResetPassword",
+    "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "request",
-        "Type": "KAShop.Dal.DTOs.Request.CategoryRequest",
+        "Type": "KAShop.Dal.DTOs.Request.ResetPasswordRequest",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "KAShop.Pl.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "KAShop.Pl.Areas.Identity.AccountController",
+    "Method": "RequestPasswordReset",
+    "RelativePath": "api/auth/Account/SendCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "KAShop.Dal.DTOs.Request.ForgetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KAShop.Pl.Areas.User.CategoriesController",
+    "Method": "Index",
+    "RelativePath": "api/Categories",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[KAShop.Pl.WeatherForecast, KAShop.Pl, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]
