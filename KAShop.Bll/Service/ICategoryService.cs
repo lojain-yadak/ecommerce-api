@@ -12,7 +12,11 @@ namespace KAShop.Bll.Service
     public interface ICategoryService
     {
 
-        List<CategoryResponse> GetAllCategories();
-        CategoryResponse CreateCategory(CategoryRequest request);
+        Task<List<CategoryResponse>> GetAllCategoriesForAdmin();
+        Task<List<CategoryUserResponse>> GetAllCategoriesForUser(string lang = "en");
+        Task<CategoryResponse> CreateCategory(CategoryRequest request);
+        Task<BaseResponse> DeleteCategoryAsync(int id);
+        Task<BaseResponse> UpdateCategoryAsync(int id, CategoryRequest request);
+        Task<BaseResponse> ToogleStatus(int id);
     }
 }

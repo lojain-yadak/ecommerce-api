@@ -22,9 +22,9 @@ namespace KAShop.Pl.Areas.User
         }
 
         [HttpGet("")]
-        public IActionResult Index()
+        public async Task<IActionResult> Index([FromQuery]string lang="en")
         {
-            var response = _category.GetAllCategories();
+            var response =await _category.GetAllCategoriesForUser(lang);
             return Ok(new { message = _localizer["success"].Value, response });
         }
        

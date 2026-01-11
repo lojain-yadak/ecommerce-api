@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Linq.Expressions;
@@ -152,13 +153,16 @@ namespace KAShop.Bll.Service
         }
         private async Task<string> GenerateAccessToken(ApplicationUser user)
         {
+            var roles =await _userManager.GetRolesAsync(user);
             var userClaims = new List<Claim>()
             {
                 new Claim(ClaimTypes.NameIdentifier,user.Id),
                 new Claim(ClaimTypes.Name,user.UserName),
                 new Claim(ClaimTypes.Email,user.Email),
+                new Claim(ClaimTypes.Role, string.Join(',',roles))
+        };
+            
 
-            };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:SecretKey"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
@@ -234,6 +238,9 @@ namespace KAShop.Bll.Service
             }    
             
             await _emailSender.SendEmailAsync(request.Email, "change password", $"<p> your password changed</p>");
+
+            user.CodeResetPassword = null;
+            await _userManager.UpdateAsync(user);
             return new ResetPasswordResponse()
             {
                 Success=true,
