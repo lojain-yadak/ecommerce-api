@@ -184,3 +184,4 @@ C:\Users\asus\Desktop\KAShop\KAShop.Pl\bin\Debug\net9.0\Microsoft.AspNetCore.Ide
 C:\Users\asus\Desktop\KAShop\KAShop.Pl\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\asus\Desktop\KAShop\KAShop.Pl\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\asus\Desktop\KAShop\KAShop.Pl\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\asus\Desktop\KAShop\KAShop.Pl\bin\Debug\net9.0\KAShop.Pl.staticwebassets.runtime.json

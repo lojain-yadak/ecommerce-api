@@ -20,6 +20,7 @@ namespace KAShop.Dal.Data
         public DbSet<CategoryTranslation> categoryTranslations { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductTranslation> productTranslations { get; set; }
+        public DbSet<ProductImage> productImages { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options,
            IHttpContextAccessor httpContextAccessor
            ):base(options)
@@ -47,20 +48,25 @@ namespace KAShop.Dal.Data
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
             var entries = ChangeTracker.Entries<BaseModel>();
-            var currentserId = _httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
-            foreach (var entityEntry in entries)
+            if (_httpContextAccessor.HttpContext != null)
             {
-                if (entityEntry.State == EntityState.Added)
-                {
-                    entityEntry.Property(x => x.CreatedBy).CurrentValue = currentserId;
-                    entityEntry.Property(x => x.CreatedAt).CurrentValue = DateTime.UtcNow;
+            var currentserId = _httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-                }
-                else if (entityEntry.State == EntityState.Modified)
-                {
-                    entityEntry.Property(x => x.UpdatedBy).CurrentValue = currentserId;
-                    entityEntry.Property(x => x.UpdatedAt).CurrentValue = DateTime.UtcNow;
 
+                foreach (var entityEntry in entries)
+                {
+                    if (entityEntry.State == EntityState.Added)
+                    {
+                        entityEntry.Property(x => x.CreatedBy).CurrentValue = currentserId;
+                        entityEntry.Property(x => x.CreatedAt).CurrentValue = DateTime.UtcNow;
+
+                    }
+                    else if (entityEntry.State == EntityState.Modified)
+                    {
+                        entityEntry.Property(x => x.UpdatedBy).CurrentValue = currentserId;
+                        entityEntry.Property(x => x.UpdatedAt).CurrentValue = DateTime.UtcNow;
+
+                    }
                 }
             }
             return base.SaveChangesAsync(cancellationToken);

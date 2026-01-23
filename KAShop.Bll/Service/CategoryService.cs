@@ -31,14 +31,14 @@ namespace KAShop.Bll.Service
 
         public async  Task<List<CategoryResponse>> GetAllCategoriesForAdmin()
         {
-            var categories = await _categoryRepository.GetAll();
+            var categories = await _categoryRepository.GetAllAsync();
            
             var response = categories.Adapt<List<CategoryResponse>>();
 
             return response;
         }
         public async Task<List<CategoryUserResponse>> GetAllCategoriesForUser(string lang = "en") {
-            var categories = await _categoryRepository.GetAll();
+            var categories = await _categoryRepository.GetAllAsync();
 
             //foreach (var category in categories)
             //{

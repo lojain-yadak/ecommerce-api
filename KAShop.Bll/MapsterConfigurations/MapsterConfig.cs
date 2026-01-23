@@ -19,6 +19,7 @@ namespace KAShop.Bll.MapsterConfigurations
                 .Map(dest=>dest.Name,source=>source.Translations.
                 Where(t => t.Language == MapContext.Current.Parameters["lang"].ToString())
                 .Select(t => t.Name).FirstOrDefault());
+            TypeAdapterConfig<Product,ProductResponse>.NewConfig().Map(dest=>dest.MainImage,source=>$"https://localhost:7127/images/{source.MainImage}");
         }
     }
 }

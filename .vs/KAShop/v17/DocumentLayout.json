@@ -1,0 +1,1110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\KAShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\areas\\identity\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\areas\\identity\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\tokenapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\tokenapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\kashop.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\kashop.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\mapsterconfigurations\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\mapsterconfigurations\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\areas\\admin\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\areas\\admin\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111180152_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KAShop.Dal\\Migrations\\20260111180152_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111175337_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KAShop.Dal\\Migrations\\20260111175337_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\producttranslationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\producttranslationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\categorytranslationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\categorytranslationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\producttranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\producttranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\producttranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\categorytranslationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\areas\\user\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\areas\\user\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\areas\\admin\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\areas\\admin\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\categoryuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\categoryuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\kashop.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\resetpasswordresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\resetpasswordresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\utils\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\utils\\userseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\utils\\iseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\utils\\iseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\response\\forgetpasswordresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\response\\forgetpasswordresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\dtos\\request\\forgetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\dtos\\request\\forgetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.bll\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8B24F-757F-41D4-A80C-124BE5A67505}|KAShop.Bll\\KAShop.Bll.csproj|solutionrelative:kashop.bll\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\resources\\sharedresource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\resources\\sharedresource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67EFC9E1-6171-4D81-8100-53FE5106EC5D}|KAShop.Pl\\KAShop.Pl.csproj|solutionrelative:kashop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\utils\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\utils\\roleseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\kashop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20251205085805_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20251205085805_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20251219181749_resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20251219181749_resetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20251220112015_audit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20251220112015_audit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20251220110658_audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20251220110658_audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20260111180536_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20260111180536_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20260118165812_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20260118165812_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20260118153543_subimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20260118153543_subimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|c:\\users\\asus\\desktop\\kashop\\kashop.dal\\migrations\\20260118152544_productsubimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8277C1C-09D3-4D7F-A3CB-231502233C28}|KAShop.Dal\\KAShop.Dal.csproj|solutionrelative:kashop.dal\\migrations\\20260118152544_productsubimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\TokenService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\TokenService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:03:42.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\AuthenticationService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:14:30.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Identity\\AccountController.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Areas\\Identity\\AccountController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Identity\\AccountController.cs",
+              "RelativeToolTip": "KAShop.Pl\\Areas\\Identity\\AccountController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:34:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:17:32.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\TokenApiModel.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\TokenApiModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\TokenApiModel.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\TokenApiModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:53:54.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T08:49:08.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\AppConfiguration.cs",
+              "RelativeToolTip": "KAShop.Pl\\AppConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T13:34:30.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Program.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Program.cs",
+              "RelativeToolTip": "KAShop.Pl\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:11:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IAuthenticationService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:13:43.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\LoginResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:18:18.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ITokenService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ITokenService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\ITokenService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:00:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20260118165812_refreshtoken.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118165812_refreshtoken.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260118165812_refreshtoken.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118165812_refreshtoken.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260118165812_refreshtoken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:58:12.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ProductService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:47:10.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20260118153543_subimages.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118153543_subimages.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260118153543_subimages.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118153543_subimages.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260118153543_subimages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:35:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\Product.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:23:06.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ProductResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\ProductResponse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:50:31.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ProductImage.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:20:27.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ProductRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\ProductRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:46:18.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20260118152544_productsubimages.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118152544_productsubimages.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260118152544_productsubimages.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260118152544_productsubimages.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260118152544_productsubimages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:25:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KAShop.Dal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T09:06:13.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KAShop.Pl.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\KAShop.Pl.csproj",
+              "RelativeDocumentMoniker": "KAShop.Pl\\KAShop.Pl.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\KAShop.Pl.csproj",
+              "RelativeToolTip": "KAShop.Pl\\KAShop.Pl.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T08:03:28.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\FileService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\FileService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\FileService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\FileService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:30:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\MapsterConfigurations\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\MapsterConfigurations\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\MapsterConfigurations\\MapsterConfig.cs",
+              "RelativeToolTip": "KAShop.Bll\\MapsterConfigurations\\MapsterConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBUAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T14:51:04.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "KAShop.Dal\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:53:45.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "KAShop.Dal\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:54:04.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "KAShop.Dal\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:18:33.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\IProductService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IProductService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:46:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Admin\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Areas\\Admin\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Admin\\ProductsController.cs",
+              "RelativeToolTip": "KAShop.Pl\\Areas\\Admin\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:05:47.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\CategoryService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\CategoryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAjwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:58:45.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "KAShop.Dal\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:22:26.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IFileService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\IFileService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\IFileService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\IFileService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:29:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:57:59.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20260111180536_products.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111180536_products.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260111180536_products.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111180536_products.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260111180536_products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:05:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260111180152_products.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111180152_products.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260111180152_products.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111180152_products.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260111180152_products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T18:01:52.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260111175337_product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111175337_product.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20260111175337_product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20260111175337_product.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20260111175337_product.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:53:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductTranslationsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ProductTranslationsResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\ProductTranslationsResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ProductTranslationsResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\ProductTranslationsResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:49:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\CategoryResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:05:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryTranslationsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryTranslationsResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\CategoryTranslationsResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryTranslationsResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\CategoryTranslationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:49:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ProductTranslation.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\ProductTranslation.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\ProductTranslation.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\ProductTranslation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:20:56.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ProductTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\ProductTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ProductTranslationRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\ProductTranslationRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:44:48.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\Category.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvwwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:35:21.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:18:09.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryTranslationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\CategoryTranslationRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\CategoryTranslationRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\CategoryTranslationRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\CategoryTranslationRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:17:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\User\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Areas\\User\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\User\\CategoriesController.cs",
+              "RelativeToolTip": "KAShop.Pl\\Areas\\User\\CategoriesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:51:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Admin\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Areas\\Admin\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Areas\\Admin\\CategoriesController.cs",
+              "RelativeToolTip": "KAShop.Pl\\Areas\\Admin\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:14:00.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryUserResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\CategoryUserResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\CategoryUserResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\CategoryUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T16:20:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\BaseResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:49:38.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KAShop.Bll.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\KAShop.Bll.csproj",
+              "RelativeDocumentMoniker": "KAShop.Bll\\KAShop.Bll.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\KAShop.Bll.csproj",
+              "RelativeToolTip": "KAShop.Bll\\KAShop.Bll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T16:56:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ResetPasswordResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ResetPasswordResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\ResetPasswordResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ResetPasswordResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\ResetPasswordResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:31:43.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Models\\BaseModel.cs",
+              "RelativeToolTip": "KAShop.Dal\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:06:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\UserSeedData.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Utils\\UserSeedData.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\UserSeedData.cs",
+              "RelativeToolTip": "KAShop.Dal\\Utils\\UserSeedData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T09:49:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ISeedData.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\ISeedData.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Utils\\ISeedData.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\ISeedData.cs",
+              "RelativeToolTip": "KAShop.Dal\\Utils\\ISeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T09:25:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251220112015_audit1.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251220112015_audit1.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20251220112015_audit1.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251220112015_audit1.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20251220112015_audit1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:20:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20251220110658_audit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251220110658_audit.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20251220110658_audit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251220110658_audit.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20251220110658_audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:06:58.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:23:14.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\RegisterRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:15:26.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20251219181749_resetpassword.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251219181749_resetpassword.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20251219181749_resetpassword.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251219181749_resetpassword.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20251219181749_resetpassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:17:50.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\RegisterResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\RegisterResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:19:03.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ForgetPasswordResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ForgetPasswordResponse.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Response\\ForgetPasswordResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Response\\ForgetPasswordResponse.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Response\\ForgetPasswordResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:48:14.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ForgetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ForgetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\DTOs\\Request\\ForgetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\DTOs\\Request\\ForgetPasswordRequest.cs",
+              "RelativeToolTip": "KAShop.Dal\\DTOs\\Request\\ForgetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:46:51.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KAShop.Pl\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\appsettings.Development.json",
+              "RelativeToolTip": "KAShop.Pl\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T08:45:15.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\EmailSender.cs",
+              "RelativeDocumentMoniker": "KAShop.Bll\\Service\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Bll\\Service\\EmailSender.cs",
+              "RelativeToolTip": "KAShop.Bll\\Service\\EmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:47:38.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SharedResource.resx",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Resources\\SharedResource.resx",
+              "RelativeDocumentMoniker": "KAShop.Pl\\Resources\\SharedResource.resx",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\Resources\\SharedResource.resx",
+              "RelativeToolTip": "KAShop.Pl\\Resources\\SharedResource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-19T06:56:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\appsettings.json",
+              "RelativeDocumentMoniker": "KAShop.Pl\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Pl\\appsettings.json",
+              "RelativeToolTip": "KAShop.Pl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-06T08:44:42.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RoleSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\RoleSeedData.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Utils\\RoleSeedData.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Utils\\RoleSeedData.cs",
+              "RelativeToolTip": "KAShop.Dal\\Utils\\RoleSeedData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T09:29:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "KAShop.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\KAShop.Dal.csproj",
+              "RelativeDocumentMoniker": "KAShop.Dal\\KAShop.Dal.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\KAShop.Dal.csproj",
+              "RelativeToolTip": "KAShop.Dal\\KAShop.Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T16:17:25.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20251205085805_dd.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251205085805_dd.cs",
+              "RelativeDocumentMoniker": "KAShop.Dal\\Migrations\\20251205085805_dd.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\KAShop\\KAShop.Dal\\Migrations\\20251205085805_dd.cs",
+              "RelativeToolTip": "KAShop.Dal\\Migrations\\20251205085805_dd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:58:05.822Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,7 +26,7 @@ namespace KAShop.Dal.Repository
             return request;
         }
 
-        public async Task<List<Category>> GetAll()
+        public async Task<List<Category>> GetAllAsync()
         {
             return await _context.Categories.Include(c=>c.Translations).Include(c=>c.User).ToListAsync();
         }

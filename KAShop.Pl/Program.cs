@@ -62,6 +62,7 @@ namespace KAShop.Pl
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
+            ClockSkew = TimeSpan.Zero,
             ValidIssuer = builder.Configuration["Jwt:Issure"],
             ValidAudience = builder.Configuration["Jwt:Audience"],
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"]))
@@ -88,7 +89,7 @@ namespace KAShop.Pl
             });
             builder.Services.AddSwaggerGen();
 
-            AddConfiguration.Config(builder.Services);
+            AppConfiguration.Config(builder.Services);
             MapsterConfig.MapsterConfRegister();
             var app = builder.Build();
 
@@ -103,7 +104,7 @@ namespace KAShop.Pl
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();

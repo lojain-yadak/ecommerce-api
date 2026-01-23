@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace KAShop.Pl
 {
-    public static class AddConfiguration
+    public static class AppConfiguration
     {
         public static void Config(IServiceCollection Services) {
             Services.AddScoped<ICategoryRepository, CategoryRepository>();
@@ -14,7 +14,12 @@ namespace KAShop.Pl
             Services.AddScoped<ISeedData, RoleSeedData>();
             Services.AddScoped<ISeedData, UserSeedData>();
             Services.AddTransient<IEmailSender, EmailSender>();
-     }
-               
+            Services.AddScoped<IFileService, FileService>();
+            Services.AddScoped<IProductRepository, ProductRepository>();
+            Services.AddScoped<IProductService, ProductService>();
+            Services.AddScoped<ITokenService, TokenService>();
+
+        }
+
     }
 }
